@@ -1,0 +1,1 @@
+Github needs one file in order to make a new folder without using Git.
